@@ -1,0 +1,25 @@
+site_name: Ciberseguridad
+site_url: https://erickmarquez7.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Home: index.md
+
+  - Writeups:
+    - Hack The Box:
+      - Plantilla: ruta/a/seguir/ejemplo.md
+
+    - Try Hack Me:
+      - Net Sec: writeups/tryhackme/netsec.md
+
+  - Notas: 
+    - Linux: notas/linux.md
+
+  - Cheatsheets:
+    - Nmap: cheatsheets/nmap.md
+
+  - Rabbit Holes:
+    - Curiosidades: ruta/a/seguir/ejemplo.md
