@@ -4,6 +4,10 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - navigation.expand # despliega las subecciones
+#  markdown_extensions:
+    
 
 nav:
   - Home: index.md
