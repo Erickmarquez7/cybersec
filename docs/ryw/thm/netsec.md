@@ -1,5 +1,7 @@
 # Net Sec 
-https://tryhackme.com/room/netsecchallenge
+> Sala de TryHackMe enfocada en fundamentos de redes, reconocimiento y enumeración.
+
+**URL:** https://tryhackme.com/room/netsec  
 
 ## Resumen
 
@@ -83,7 +85,7 @@ Service scan Timing: About 0.00% done
 
 El host no responde a las solicitudes hechas por nmap. Por ello se procede a visitar la pagina web http://TARGET
 
-![Pagina web del host](/docs/img/ryw/netsec-web.jpeg "Pagina web")
+![Pagina web del host](../../img/ryw/netsec-web.jpeg "Pagina web")
 
 #### FTP
 

@@ -1,11 +1,29 @@
 site_name: Ciberseguridad
+
 site_url: https://erickmarquez7.github.io
+
 theme:
   name: material
   palette:
     scheme: slate
   features:
     - navigation.expand # despliega las subecciones
+    - navigation.tabs #las secciones aparecen en la parte superior
+    - navigation.sections #agrupa
+    - navigation.top #boton de volver arriba 
+    - search.highlight #resalta al buscar
+    - toc.integrate #slidebar
+    - content.tabs.link  #sincroniza tabs
+
+markdown_extensions: 
+  - admonition #las adevertencias verde, amarillo, rojo
+  - pymdownx.details #colapsar
+  - pymdownx.highlight #mejora color
+  - pymdownx.superfences #para bloques de codigo
+  - pymdownx.inlinehilite #codigo inline
+  - pymdownx.tabbed #tablas
+
+    
 #  markdown_extensions:
     
 
