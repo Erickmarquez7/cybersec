@@ -12,12 +12,12 @@ theme:
 nav:
   - Home: index.md
 
-  - Writeups:
+  - Reportes & write-ups:
     - Hack The Box:
-      - Plantilla: ruta/a/seguir/ejemplo.md
+      - Plantilla: ryw/htb/ejemplo.md
 
     - Try Hack Me:
-      - Net Sec: writeups/tryhackme/netsec.md
+      - Net Sec: ryw/thm/netsec.md
 
   - Notas: 
     - Linux: notas/linux.md

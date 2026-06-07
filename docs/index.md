@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Cyber Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Repositorio personal de:
+- write-ups
+- cheatsheets
+- metodología
+- notas técnicas
+- rabbit holes
 
-## Commands
+## Contenido
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Write-ups
+Máquinas y laboratorios resueltos.
 
-## Project layout
+### Cheatsheets
+Comandos y referencias rápidas.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Methodology
+Flujos operativos de enumeración y explotación.
+
+### Rabbit Holes
+Comportamientos curiosos y detalles técnicos interesantes.
