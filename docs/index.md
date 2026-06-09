@@ -12,11 +12,9 @@ Repositorio personal de:
 ### Write-ups
 Máquinas y laboratorios resueltos.
 
-### Cheatsheets
-Comandos y referencias rápidas.
+### Notas & Cheatsheets
+Conceptos básicos. Comandos y referencias rápidas.
 
-### Methodology
-Flujos operativos de enumeración y explotación.
 
 ### Rabbit Holes
 Comportamientos curiosos y detalles técnicos interesantes.

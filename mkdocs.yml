@@ -39,11 +39,8 @@ nav:
       - TakeOver: ryw/thm/takeover.md
       - Agent T: prueba/prueba.md
 
-  - Notas: 
-    - Linux: notas/linux.md
-
-  - Cheatsheets:
-    - Nmap: cheatsheets/nmap.md
+  - Notas & Cheatsheets: 
+    - Reconocimiento: notasych/recon.md
 
   - Rabbit Holes:
     - Curiosidades: ruta/a/seguir/ejemplo.md
