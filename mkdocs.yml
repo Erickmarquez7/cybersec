@@ -37,6 +37,7 @@ nav:
     - Try Hack Me:
       - Net Sec: ryw/thm/netsec.md
       - TakeOver: ryw/thm/takeover.md
+      - Agent T: prueba/prueba.md
 
   - Notas: 
     - Linux: notas/linux.md
