@@ -1,5 +1,5 @@
 # Net Sec 
-> Sala de TryHackMe enfocada en fundamentos de redes, reconocimiento y enumeración.
+> Sala enfocada en fundamentos de redes, reconocimiento y enumeración.
 
 **URL:** https://tryhackme.com/room/netsec  
 
@@ -94,7 +94,7 @@ Para descubir en qué puerto estaba activo el servicio ftp se realizó un escane
 ```bash
 nmap -n -Pn -sV -p10121 [TARGET]
 Starting Nmap 7.95 ( https://nmap.org ) at 2026-06-07 15:15 CST
-Nmap scan report for 10.144.139.157
+Nmap scan report for [TARGET]
 Host is up (0.083s latency).
 PORT      STATE SERVICE VERSION
 10121/tcp open  ftp     vsftpd 3.0.5
