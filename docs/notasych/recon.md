@@ -5,18 +5,18 @@ No interactua directamente con el host
 
 whois - Información sobre nombres de dominio
 ```bash
-whois tryhackme.com
+whois ejemplo.com
 ```
 
 nslookup & dig - Consulta DNS, tipos de registro
 
 ```bash
-nslookup -type=A tryhackme.com
-nslookup -type=MX tryhackme.com 1.1.1.1
-nslookup -type=TXT tryhackme.com
-dig tryhackme.com A
-dig @1.1.1.1 tryhackme.com MX
-dig tryhackme.com TXT
+nslookup -type=A ejemplo.com
+nslookup -type=MX ejemplo.com 1.1.1.1
+nslookup -type=TXT ejemplo.com
+dig ejemplo.com A
+dig @1.1.1.1 ejemplo.com MX
+dig ejemplo.com TXT
 ```
 
 DNSDumpster - Similar al anterior, permite subdominios
@@ -62,3 +62,5 @@ netcat -nlvp PORT
 ```
 
 Una vez elegido el cliente telnet, netcat, etc. entonces las peticiones dependen del protocolo
+
+### nmap
