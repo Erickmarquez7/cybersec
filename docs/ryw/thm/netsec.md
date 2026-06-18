@@ -1,7 +1,8 @@
-# Net Sec 
+# Net Sec - Premium
 > Sala enfocada en fundamentos de redes, reconocimiento y enumeración.
 
-**URL:** https://tryhackme.com/room/netsec  
+**URL:** <https://tryhackme.com/room/netsec>
+
 
 ## Resumen
 
