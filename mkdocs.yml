@@ -22,10 +22,7 @@ markdown_extensions:
   - pymdownx.superfences #para bloques de codigo
   - pymdownx.inlinehilite #codigo inline
   - pymdownx.tabbed #tablas
-
-    
-#  markdown_extensions:
-    
+  
 
 nav:
   - Home: index.md
@@ -40,7 +37,7 @@ nav:
       - Agent T: prueba/prueba.md
 
   - Notas & Cheatsheets: 
-    - My personal Road Map: notasych/mprmap.md
+    - My personal Road Map: notasych/myrmap.md
     - Reconocimiento: notasych/recon.md
 
   - Rabbit Holes:

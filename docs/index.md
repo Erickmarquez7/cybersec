@@ -1,6 +1,6 @@
-# Cyber Notes
+# Cybersecurity notes Bit-ágora
 
-Repositorio personal de:
+Repositorio de:
 - write-ups
 - cheatsheets
 - metodología
@@ -14,7 +14,6 @@ Máquinas y laboratorios resueltos.
 
 ### Notas & Cheatsheets
 Conceptos básicos. Comandos y referencias rápidas.
-
 
 ### Rabbit Holes
 Comportamientos curiosos y detalles técnicos interesantes.
