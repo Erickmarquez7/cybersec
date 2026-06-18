@@ -47,6 +47,7 @@ Las siguientes 3 salas, junto con Active Directory basics, forman parte del mód
 #### Web
 
 Las siguientes 4 salas forman parte del módulo "How the web works"
+
 - Domain Name System (DNS): <https://tryhackme.com/room/dnsindetail>
 - HyperText Transfer Protocol (HTTP): <https://tryhackme.com/room/httpindetail>
 - Cómo funciona una pagina web: <https://tryhackme.com/room/howwebsiteswork>
