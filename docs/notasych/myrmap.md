@@ -44,6 +44,10 @@ Las siguientes 3 salas, junto con Active Directory basics, forman parte del mód
 - ¿Qué es una red?: <https://tryhackme.com/room/whatisnetworking>
 - Conceptos de red: <https://tryhackme.com/room/networkingconcepts>
 
+#### Protocolos comunes
+
+- Reto guiado: <https://tryhackme.com/room/networkservices>
+
 #### Web
 
 Las siguientes 4 salas forman parte del módulo "How the web works"
@@ -55,10 +59,6 @@ Las siguientes 4 salas forman parte del módulo "How the web works"
 
 La siguiente sala puede servir para profundizar y repasar
 - Pagina web: <https://tryhackme.com/room/webapplicationbasics>
-
-### Protocolos comunes
-
-- Reto guiado: <https://tryhackme.com/room/networkservices >
 
 ### Herramientas útiles
 
