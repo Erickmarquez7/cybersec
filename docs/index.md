@@ -1,19 +1,13 @@
-# Cybersecurity notes Bit-ágora
+# Inicio 
 
-Repositorio de:
-- write-ups
-- cheatsheets
-- metodología
-- notas técnicas
-- rabbit holes
-
-## Contenido
-
-### Write-ups
+## [Reportes - Write-ups](ryw/)
 Máquinas y laboratorios resueltos.
 
-### Notas & Cheatsheets
+## [Road Map](roadmaps/)
+Una ruta para quienes buscan comenzar.
+
+## [Notas - Cheatsheets](notas/)
 Conceptos básicos. Comandos y referencias rápidas.
 
-### Rabbit Holes
+## [Rabbit Holes](rabbit-holes/)
 Comportamientos curiosos y detalles técnicos interesantes.

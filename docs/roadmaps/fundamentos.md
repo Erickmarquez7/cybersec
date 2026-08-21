@@ -1,4 +1,4 @@
-# My Road Map
+# My Road Map - Fundamentos
 
 Recopilatorio de salas **gratuitas** teoricas y prácticas en Try Hack Me. Unicamente se necesita tener cuenta en la página.
 
@@ -89,7 +89,6 @@ La siguiente sala puede servir para profundizar y repasar
 ### Ofensivo
 
 - Introducción: https://tryhackme.com/room/offensivesecurityintro
-
 
 #### Fuerza bruta
 - Hydra básico: <https://tryhackme.com/room/hydra>

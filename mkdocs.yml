@@ -1,4 +1,4 @@
-site_name: Ciberseguridad
+site_name: Bit Ágora | Ciberseguridad
 
 site_url: https://bit-agora.github.io
 
@@ -25,20 +25,25 @@ markdown_extensions:
   
 
 nav:
-  - Home: index.md
+  - Inicio: index.md
 
   - Reportes & write-ups:
+    - Inicio: ryw/index.md
+
     - Hack The Box:
       - Plantilla: ryw/htb/ejemplo.md
 
     - Try Hack Me:
       - Net Sec: ryw/thm/netsec.md
       - TakeOver: ryw/thm/takeover.md
-      - Agent T: prueba/prueba.md
+      - Agent T: ryw/thm/agentt.md
+
+  - Road Map:
+    - My Road Map: roadmaps/index.md
 
   - Notas & Cheatsheets: 
-    - My Road Map: notasych/myrmap.md
-    - Cheat sheets - Reconocimiento: notasych/recon.md
+    - Inicio: notas/index.md
+    - Reconocimiento: notas/recon.md
 
   - Rabbit Holes:
-    - Curiosidades: ruta/a/seguir/ejemplo.md
+    - Inicio: rabbit-holes/index.md
