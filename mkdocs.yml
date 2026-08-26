@@ -4,8 +4,12 @@ site_url: https://bit-agora.github.io
 
 theme:
   name: material
+  logo: img/assets/logo.png
+  favicon: img/assets/favicon.png
+
   palette:
     scheme: slate
+
   features:
     - navigation.expand # despliega las subecciones
     - navigation.tabs #las secciones aparecen en la parte superior
